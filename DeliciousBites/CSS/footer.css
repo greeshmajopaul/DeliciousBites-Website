@@ -1,0 +1,42 @@
+.footersection{
+    width:100%;
+    padding: 72px 105px 72px 105px;
+    background-color: rgba(61, 21, 10, 1);
+}
+
+.Frame2 .divider{
+    width: 80%;
+    height: 1px;
+    border: 1px solid rgba(170, 170, 170, 1);
+}
+.Frame2 .footerlinks{
+    width: 80%;
+    height:21px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.footerlinks .div1{
+    width: 417px;
+    height:21px;
+    font-weight:400 ;
+    font-size: 13px;
+    color:rgba(255, 255, 255, 1);
+}
+.footerlinks .div2{
+    width: 400px;
+    height:21px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.div2 div{
+    width:97px;
+    height:21px;
+    font-weight: 400;
+    font-size: 12px;
+    color:rgba(255, 255, 255, 1);
+    overflow-y: hidden;
+}
+
